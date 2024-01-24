@@ -1,5 +1,3 @@
-// InheritanceAndInterfacesExample.kt
-
 // Base class (Superclass)
 open class Shape(val name: String) {
     // Member function

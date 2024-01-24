@@ -1,5 +1,3 @@
-// ConstructorsAndInitializationExample.kt
-
 // Class with primary constructor
 class Person(val name: String, var age: Int) {
     // Secondary constructor

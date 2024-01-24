@@ -1,6 +1,3 @@
-// ClassesAndObjectsExample.kt
-
-// Class declaration
 class Car(val brand: String, val model: String) {
     // Member function
     fun start() {

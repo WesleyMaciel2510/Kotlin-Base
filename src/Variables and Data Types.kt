@@ -1,7 +1,14 @@
 fun main() {
+    // var is mutable
+    var age = 25
+    age = 26
+    val name: String = "wesley"
+    //name = "batman"
+    // Val cannot be reassigned
+
     // String
-    val name: String = "Kotlin"
-    println("Hello, $name!")
+    val language: String = "Kotlin"
+    println("Hello, $language!")
 
     // Int
     for (i in 1..5) {
